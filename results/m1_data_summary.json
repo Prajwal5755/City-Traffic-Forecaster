@@ -1,0 +1,25 @@
+{
+  "metr-la": {
+    "sensors": 207,
+    "time_steps": 34272,
+    "start": "2012-03-01 00:00:00",
+    "end": "2012-06-27 23:55:00",
+    "days": 119.0,
+    "missing_percent": 8.11,
+    "mean_speed": 58.58,
+    "std_speed": 12.82,
+    "split_steps": {
+      "train": 23990,
+      "val": 3427,
+      "test": 6855
+    },
+    "graph": {
+      "nodes": 207,
+      "edges": 1515,
+      "avg_neighbours": 7.32,
+      "density_percent": 3.55
+    },
+    "corr_connected": 0.418,
+    "corr_not_connected": 0.188
+  }
+}
